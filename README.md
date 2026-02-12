@@ -14,7 +14,7 @@
 
 | 新增下载按钮 | 原生下载按钮 |
 |:--------:|:--------:|
-| ![新增](images/Example 1.png) | ![原生](images/Example 2.jpg) |
+| ![新增](./images/Example 1.png) | ![原生](./images/Example 2.jpg) |
 
 ## 功能特性
 
@@ -28,10 +28,7 @@
 
 ### 前置条件
 
-1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
-   - [Chrome 扩展商店](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-   - [Firefox 附加组件](https://addons.mozilla.org/firefox/addon/tampermonkey/)
-   - [Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/eimhgcbhnhihcalncniljpgdjdcffeha)
+安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
 
 ### 安装方法
 
