@@ -14,7 +14,7 @@
 
 | 新增下载按钮 | 原生下载按钮 |
 |:--------:|:--------:|
-| ![新增](https://raw.githubusercontent.com/ming-kang/Smartedu-Pdf-Downloader/refs/heads/main/images/Example%201.png) | ![原生]([./images/Example 2.jpg](https://raw.githubusercontent.com/ming-kang/Smartedu-Pdf-Downloader/refs/heads/main/images/Example%202.jpg) |
+| ![新增](https://raw.githubusercontent.com/ming-kang/Smartedu-Pdf-Downloader/refs/heads/main/images/Example%201.png) | ![原生](https://raw.githubusercontent.com/ming-kang/Smartedu-Pdf-Downloader/refs/heads/main/images/Example%202.jpg) |
 
 ## 功能特性
 
